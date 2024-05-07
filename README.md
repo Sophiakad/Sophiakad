@@ -1,7 +1,8 @@
 <h1>Hi, I'm Sophia Kadegnon!</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- [Python Automation (File management)](https://github.com/Sophiakad/Python-Automation-)
+- Python Automation (File management)(https://github.com/Sophiakad/Python-Automation-)
+- The Best Neighborhood in Pittsburgh for Pokemon Go (Data manipulation using Python) (https://github.com/Sophiakad/Best-Neighborhood-for-Pokemon) 
 
 
 
