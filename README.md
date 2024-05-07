@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - Python Automation (File management)(https://github.com/Sophiakad/Python-Automation-)
+<br/>
+
 - The Best Neighborhood in Pittsburgh for Pokemon Go (Data manipulation using Python) (https://github.com/Sophiakad/Best-Neighborhood-for-Pokemon) 
 
 
