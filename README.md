@@ -1,6 +1,8 @@
 <h1>Hi, I'm Sophia Kadegnon!</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+<br/>
+
 - Python Automation (File management)(https://github.com/Sophiakad/Python-Automation-)
 <br/>
 
